@@ -1,6 +1,11 @@
 # fooddeca
 
 A new Flutter project.
+UI screens
+
+![WhatsApp Image 2023-07-08 at 10 28 49](https://github.com/pratikpatrimath/Fooddeca/assets/75774769/779ad8c2-6757-4a03-a12b-089e6e1b7272)
+
+
 ![WhatsApp Image 2023-07-08 at 10 28 49](https://github.com/pratikpatrimath/Fooddeca/assets/75774769/609beaa2-759d-4225-aea5-068d14512c69)
 
 ## Getting Started
